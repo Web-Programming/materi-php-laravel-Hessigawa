@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HALAMAN PROFIL</title>
+    <title>Halaman Laravel</title>
 </head>
 <body>
-    <h1>Finelga Hessigawa</h1>
+    Ini Adalah Halaman Laravel
 </body>
 </html>
